@@ -1,0 +1,43 @@
+body{
+    background-color: #FFFAF0;
+}
+
+h2{
+    color:#FFFF00;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow:3px 1px 1px red;
+    background-color:#3CB371;
+}
+
+h1{
+    color: #00FF00;
+    text-align: center;
+    text-shadow: 4px 1px 1px #FF1493;
+    
+}
+
+#principal{
+    background-image: url(São_Paulo.jpg);
+    min-height: 660px;
+    background-size: 100%;
+    padding: 50px 0 0 0;
+}
+
+table#tabela1{
+    border: 5px solid #DCDCDC;
+    border-spacing: 0;
+    margin-left: auto;
+    color: #7FFFD4;
+    padding: 3px;
+}
+
+table#tabela1 td{
+border: 1px solid #F0F8FF;
+padding: 8px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
