@@ -28,6 +28,7 @@ table#tabela1{
     border: 5px solid #DCDCDC;
     border-spacing: 0;
     margin-left: auto;
+    margin-right: auto;
     color: #7FFFD4;
     padding: 3px;
 }
